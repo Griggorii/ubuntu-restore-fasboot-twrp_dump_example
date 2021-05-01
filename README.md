@@ -3,7 +3,7 @@ ubuntu , linux , dump , twrp , fastboot , lenovo a319 , all android example , or
 
 $ sudo apt install fastboot adb
 
-example
+example download video https://github.com/Griggorii/ubuntu-restore-fasboot-twrp_dump_example/blob/main/fastboot.webm
 
 fastboot flash boot boot.emmc.win
 
