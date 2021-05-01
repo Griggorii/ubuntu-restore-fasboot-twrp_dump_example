@@ -3,13 +3,14 @@ ubuntu , linux , dump , twrp , fastboot , lenovo a319 , all android example , or
 
 $ sudo apt install fastboot adb
 
-example download video https://github.com/Griggorii/ubuntu-restore-fasboot-twrp_dump_example/blob/main/fastboot.webm
+example download video restore dump twrp ubuntu https://github.com/Griggorii/ubuntu-restore-fasboot-twrp_dump_example/blob/main/fastboot.webm
 
 fastboot flash boot boot.emmc.win
 
 fastboot reboot bootloader
 
 fastboot reboot
+______________________________________________________________________________________________________________
 
 Restore beta idea logic recovery
 
