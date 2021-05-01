@@ -16,4 +16,8 @@ Restore beta idea logic recovery
 
 fastboot flash recovery recovery.emmc.win
 
+______________________________________________________________________________________________________________
+
+Example apk install https://youtu.be/Cq1bE6Gu1Hw?t=169
+
 
