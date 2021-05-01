@@ -1,6 +1,6 @@
 # ubuntu-restore-fasboot-twrp_dump_example_lenovo_a319
                                
-                                            TWRP BACKUP DUMP RESTORE IN UBUNTU SPECIAL OS
+                      TWRP BACKUP DUMP RESTORE IN UBUNTU SPECIAL OS fix fsf donation https://yoomoney.ru/to/410014959813799
  
 ubuntu , linux , dump , twrp , fastboot , lenovo a319 , all android example , original autor not offering postmarket os
 
