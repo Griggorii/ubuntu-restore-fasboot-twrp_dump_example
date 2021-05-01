@@ -20,4 +20,6 @@ ________________________________________________________________________________
 
 Example apk install https://youtu.be/Cq1bE6Gu1Hw?t=169
 
+Special Linux OS https://youtu.be/MVhZ_QZGxaQ
+
 
