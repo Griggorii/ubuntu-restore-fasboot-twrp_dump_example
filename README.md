@@ -25,4 +25,14 @@ Example apk install https://youtu.be/Cq1bE6Gu1Hw?t=169
 
 Special Linux OS https://youtu.be/MVhZ_QZGxaQ
 
+______________________________________________________________________________________________________________
+
+Example generate new tarball os android lenovi a319 firmware
+
+https://www.youtube.com/watch?v=1bz4vSR-LXk
+
+Result 2 versions
+
+https://www.youtube.com/watch?v=TxIdFsTLUVY
+
 
