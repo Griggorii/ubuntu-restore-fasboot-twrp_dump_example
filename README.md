@@ -1,4 +1,7 @@
 # ubuntu-restore-fasboot-twrp_dump_example
+                               
+                                            TWRP BACKUP DUMP RESTORE IN UBUNTU SPECIAL OS
+ 
 ubuntu , linux , dump , twrp , fastboot , lenovo a319 , all android example , original autor not offering postmarket os
 
 $ sudo apt install fastboot adb
