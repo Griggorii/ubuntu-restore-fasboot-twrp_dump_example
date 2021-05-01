@@ -21,6 +21,12 @@ fastboot flash recovery recovery.emmc.win
 
 ______________________________________________________________________________________________________________
 
+Android Pheonix OS in Ubuntu
+
+https://www.youtube.com/watch?v=QK9eP7uxG9w
+
+______________________________________________________________________________________________________________
+
 Example apk install https://youtu.be/Cq1bE6Gu1Hw?t=169
 
 Special Linux OS https://youtu.be/MVhZ_QZGxaQ
