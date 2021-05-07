@@ -21,6 +21,10 @@ fastboot flash recovery recovery.emmc.win
 
 ______________________________________________________________________________________________________________
 
+Example windows easy different analog methods linux https://youtu.be/l3z1pqEvlns
+
+______________________________________________________________________________________________________________
+
 Android Pheonix OS in Ubuntu
 
 https://www.youtube.com/watch?v=QK9eP7uxG9w
